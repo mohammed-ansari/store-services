@@ -1,0 +1,12 @@
+{
+  "name": "phone-category",
+  "storage": [
+    "32 gb",
+    "64 gb",
+    "128 gb"
+  ],
+  "color": [
+    "black",
+    "white"
+  ]
+}

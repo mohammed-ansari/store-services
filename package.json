@@ -1,0 +1,19 @@
+{
+  "name": "store-services",
+  "version": "1.0.0",
+  "description": "services to retrieve information regarding products and categories",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Mohammed Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.9"
+  }
+  
+}
