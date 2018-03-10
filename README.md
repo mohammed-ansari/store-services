@@ -4,7 +4,7 @@ sample node services for products and categories
 # To setup node js, please refer below url:
 https://nodejs.org/en/
 
-#To setup mongo db locally, please refer the below url:
+# To setup mongo db locally, please refer the below url:
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 Keep default settings to connect mongo db.
 
