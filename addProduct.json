@@ -1,5 +1,5 @@
 {
   "name": "iphone x",
   "price": "Rs. 1,01,500",
-  "_category": "add your category reference id here"
+  "_category": ["Add category reference Id's here if any"]
 }
