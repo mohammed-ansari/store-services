@@ -18,25 +18,25 @@ base_url --> http://localhost:8080/
 1. service url: /api/category
    http verb: POST
    description: add a category
-   request json: addCategory.json
+   request-json: addCategory.json
    
 2. service url: /api/product
-   http verb: POST
+   http-verb: POST
    description: add a product
-   request json: addProduct.json
+   request-json: addProduct.json
    
 3. service url: /api/category
-   http verb: GET
+   http-verb: GET
    description: get all categories
    
 4. service url: /api/product/:categoryId
-   http verb: GET
+   http-verb: GET
    description: get all products by categoryId
    
 5. service url: /api/product/:productId
-   http verb: PATCH
+   http-verb: PATCH
    description: update product name and price by id
-   request json: updateProductById.json
+   request-json: updateProductById.json
    
 
 # Note:Please find the sample request json files in project directory
